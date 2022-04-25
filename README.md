@@ -15,4 +15,4 @@ A serverless api test for Pray.com
 * GET /prayers - Gets a list of all prayers
 
 # Test
-For test purposes, please use the currently available AWS URL: https://7jt9isgxxc.execute-api.us-east-1.amazonaws.com
+For staging purposes I used AWS Services: DynamoDB, Lambda & Serverless. Also for testing purposes I used POSTMAN with the currently available AWS URL: https://7jt9isgxxc.execute-api.us-east-1.amazonaws.com
